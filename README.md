@@ -3,6 +3,7 @@ Kodluyoruz Front-End Eğitimi Kapsamında Açtığım İlk Repo
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+[Kodluyoruz Sayfamız](https://www.kodluyoruz.org/)
 
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
